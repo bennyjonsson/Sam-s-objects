@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="8b8e64b4-eedf-4cbc-84fc-6e41e3c0c167" name="Benny@MACBOOKWIN7 2012-03-14 21:31:12" runUser="MacBookWin7\Benny" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="abe41eeb-0327-4780-b830-21300e2a52a0">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Benny_MACBOOKWIN7 2012-03-14 21_31_12">
+      <DeploymentItem filename="C:\Users\Benny\Documents\Visual Studio 2010\Projects\Sam\Sam\bin\Debug\Sam.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-03-14T21:31:12.5394000+01:00" queuing="2012-03-14T21:31:12.5864000+01:00" start="2012-03-14T21:31:12.6634000+01:00" finish="2012-03-14T21:31:13.1344000+01:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="3" executed="3" passed="3" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="EatCookie" storage="c:\users\benny\documents\visual studio 2010\projects\sam\samtestproject\bin\debug\samtestproject.dll" id="6d7f29f3-3cf2-dc39-4e78-0a1c7cae2f76">
+      <Execution id="c3636c45-3861-4ace-9e74-c66fb816c8a7" />
+      <TestMethod codeBase="c:/Users/Benny/Documents/Visual Studio 2010/Projects/Sam/SamTestProject/bin/Debug/SamTestProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SamTestProject.UnitTest1, SamTestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="EatCookie" />
+    </UnitTest>
+    <UnitTest name="EatALot" storage="c:\users\benny\documents\visual studio 2010\projects\sam\samtestproject\bin\debug\samtestproject.dll" id="9189eaab-0a4b-364b-3a46-278e007c15db">
+      <Execution id="dd7236a5-1ae3-428b-a365-d1838ac718ef" />
+      <TestMethod codeBase="c:/Users/Benny/Documents/Visual Studio 2010/Projects/Sam/SamTestProject/bin/Debug/SamTestProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SamTestProject.UnitTest1, SamTestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="EatALot" />
+    </UnitTest>
+    <UnitTest name="EatDirt" storage="c:\users\benny\documents\visual studio 2010\projects\sam\samtestproject\bin\debug\samtestproject.dll" id="ab33c521-d786-5081-e07a-4382763147cc">
+      <Execution id="4b432b68-aae9-4df2-9390-7ef54ebdda81" />
+      <TestMethod codeBase="c:/Users/Benny/Documents/Visual Studio 2010/Projects/Sam/SamTestProject/bin/Debug/SamTestProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SamTestProject.UnitTest1, SamTestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="EatDirt" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="6d7f29f3-3cf2-dc39-4e78-0a1c7cae2f76" executionId="c3636c45-3861-4ace-9e74-c66fb816c8a7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9189eaab-0a4b-364b-3a46-278e007c15db" executionId="dd7236a5-1ae3-428b-a365-d1838ac718ef" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ab33c521-d786-5081-e07a-4382763147cc" executionId="4b432b68-aae9-4df2-9390-7ef54ebdda81" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="c3636c45-3861-4ace-9e74-c66fb816c8a7" testId="6d7f29f3-3cf2-dc39-4e78-0a1c7cae2f76" testName="EatCookie" computerName="MACBOOKWIN7" duration="00:00:00.0221675" startTime="2012-03-14T21:31:12.7134000+01:00" endTime="2012-03-14T21:31:12.9754000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c3636c45-3861-4ace-9e74-c66fb816c8a7">
+    </UnitTestResult>
+    <UnitTestResult executionId="dd7236a5-1ae3-428b-a365-d1838ac718ef" testId="9189eaab-0a4b-364b-3a46-278e007c15db" testName="EatALot" computerName="MACBOOKWIN7" duration="00:00:00.0013864" startTime="2012-03-14T21:31:13.0184000+01:00" endTime="2012-03-14T21:31:13.0354000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dd7236a5-1ae3-428b-a365-d1838ac718ef">
+    </UnitTestResult>
+    <UnitTestResult executionId="4b432b68-aae9-4df2-9390-7ef54ebdda81" testId="ab33c521-d786-5081-e07a-4382763147cc" testName="EatDirt" computerName="MACBOOKWIN7" duration="00:00:00.0002380" startTime="2012-03-14T21:31:13.0404000+01:00" endTime="2012-03-14T21:31:13.0464000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4b432b68-aae9-4df2-9390-7ef54ebdda81">
+    </UnitTestResult>
+  </Results>
+</TestRun>

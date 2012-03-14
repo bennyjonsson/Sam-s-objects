@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="7d3f4e87-fe87-4a08-b524-3f8fdeeaa58b" name="Benny@MACBOOKWIN7 2012-03-14 20:56:27" runUser="MacBookWin7\Benny" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="abe41eeb-0327-4780-b830-21300e2a52a0">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Benny_MACBOOKWIN7 2012-03-14 20_56_27">
+      <DeploymentItem filename="C:\Users\Benny\Documents\Visual Studio 2010\Projects\Sam\Sam\bin\Debug\Sam.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-03-14T20:56:27.4864000+01:00" queuing="2012-03-14T20:56:35.6374000+01:00" start="2012-03-14T20:56:35.9214000+01:00" finish="2012-03-14T20:56:37.8214000+01:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="c:\users\benny\documents\visual studio 2010\projects\sam\samtestproject\bin\debug\samtestproject.dll" id="034ba79a-a201-7006-e559-981631141176">
+      <Execution id="b830ad94-e05b-426e-9af2-80fa9b44af84" />
+      <TestMethod codeBase="c:/Users/Benny/Documents/Visual Studio 2010/Projects/Sam/SamTestProject/bin/Debug/SamTestProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SamTestProject.UnitTest1, SamTestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="034ba79a-a201-7006-e559-981631141176" executionId="b830ad94-e05b-426e-9af2-80fa9b44af84" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="b830ad94-e05b-426e-9af2-80fa9b44af84" testId="034ba79a-a201-7006-e559-981631141176" testName="TestMethod1" computerName="MACBOOKWIN7" duration="00:00:00.0202883" startTime="2012-03-14T20:56:36.0294000+01:00" endTime="2012-03-14T20:56:37.5744000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b830ad94-e05b-426e-9af2-80fa9b44af84">
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,5 @@
+C:\Users\Benny\Documents\Visual Studio 2010\Projects\Sam\Sam\bin\Debug\Sam.dll
+C:\Users\Benny\Documents\Visual Studio 2010\Projects\Sam\Sam\bin\Debug\Sam.pdb
+C:\Users\Benny\Documents\Visual Studio 2010\Projects\Sam\Sam\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Benny\Documents\Visual Studio 2010\Projects\Sam\Sam\obj\Debug\Sam.dll
+C:\Users\Benny\Documents\Visual Studio 2010\Projects\Sam\Sam\obj\Debug\Sam.pdb

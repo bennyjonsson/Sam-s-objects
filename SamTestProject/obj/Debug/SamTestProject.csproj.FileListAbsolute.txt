@@ -1,0 +1,7 @@
+c:\Users\Benny\Documents\Visual Studio 2010\Projects\Sam\SamTestProject\bin\Debug\SamTestProject.dll
+c:\Users\Benny\Documents\Visual Studio 2010\Projects\Sam\SamTestProject\bin\Debug\SamTestProject.pdb
+c:\Users\Benny\Documents\Visual Studio 2010\Projects\Sam\SamTestProject\bin\Debug\Sam.dll
+c:\Users\Benny\Documents\Visual Studio 2010\Projects\Sam\SamTestProject\bin\Debug\Sam.pdb
+c:\Users\Benny\Documents\Visual Studio 2010\Projects\Sam\SamTestProject\obj\Debug\ResolveAssemblyReference.cache
+c:\Users\Benny\Documents\Visual Studio 2010\Projects\Sam\SamTestProject\obj\Debug\SamTestProject.dll
+c:\Users\Benny\Documents\Visual Studio 2010\Projects\Sam\SamTestProject\obj\Debug\SamTestProject.pdb

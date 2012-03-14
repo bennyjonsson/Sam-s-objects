@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="be2c1838-026d-4f4d-9714-518839c0a6bc" name="Benny@MACBOOKWIN7 2012-03-14 21:17:38" runUser="MacBookWin7\Benny" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="abe41eeb-0327-4780-b830-21300e2a52a0">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Benny_MACBOOKWIN7 2012-03-14 21_17_38">
+      <DeploymentItem filename="C:\Users\Benny\Documents\Visual Studio 2010\Projects\Sam\Sam\bin\Debug\Sam.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-03-14T21:17:38.8364000+01:00" queuing="2012-03-14T21:17:40.1344000+01:00" start="2012-03-14T21:17:40.2244000+01:00" finish="2012-03-14T21:17:41.9004000+01:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="EatDirt" storage="c:\users\benny\documents\visual studio 2010\projects\sam\samtestproject\bin\debug\samtestproject.dll" id="ab33c521-d786-5081-e07a-4382763147cc">
+      <Execution id="f41a1bce-2869-44c2-88a4-6fb28a7c5ecf" />
+      <TestMethod codeBase="c:/Users/Benny/Documents/Visual Studio 2010/Projects/Sam/SamTestProject/bin/Debug/SamTestProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SamTestProject.UnitTest1, SamTestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="EatDirt" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="ab33c521-d786-5081-e07a-4382763147cc" executionId="f41a1bce-2869-44c2-88a4-6fb28a7c5ecf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="f41a1bce-2869-44c2-88a4-6fb28a7c5ecf" testId="ab33c521-d786-5081-e07a-4382763147cc" testName="EatDirt" computerName="MACBOOKWIN7" duration="00:00:00.0201307" startTime="2012-03-14T21:17:40.3094000+01:00" endTime="2012-03-14T21:17:41.8294000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f41a1bce-2869-44c2-88a4-6fb28a7c5ecf">
+    </UnitTestResult>
+  </Results>
+</TestRun>
